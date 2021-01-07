@@ -6,9 +6,8 @@
   null
   
   Installation:
-  To install the necessary dependencies, run the following command
-  Usage:
-  Just pull down the code and run node index.js
+  To install the necessary dependencies, run the following command "npm i"
+  Usage: Just pull down the code and run node index.js
   Contributors:
   
   Tests:
