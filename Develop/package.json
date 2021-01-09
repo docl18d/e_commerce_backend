@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/docl18d/e_commerce_backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adrein Leavitt",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
